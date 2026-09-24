@@ -42,3 +42,23 @@ Manual Reading
 Manual Data Entry
    ↓
 Excel
+
+```
+### Into
+
+**Automated**
+
+```text
+Invoice
+   ↓
+OneDrive
+   ↓
+Power Automate
+   ↓
+AI Builder
+   ↓
+Structured JSON
+   ↓
+Excel
+```
+
