@@ -28,7 +28,6 @@ This type of process is repetitive and can introduce data-entry errors.
 
 The proposed solution automates the document processing pipeline.
 
----
 ## Solution
 
 The solution transforms the invoice processing workflow from:
