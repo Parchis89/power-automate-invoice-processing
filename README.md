@@ -49,5 +49,19 @@ Manual Data Entry
    ↓
 Excel
 
+into:
+
+Factura
+   ↓
+OneDrive
+   ↓
+Power Automate
+   ↓
+IA
+   ↓
+JSON estructurado
+   ↓
+Excel
+
 
 
