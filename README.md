@@ -49,7 +49,7 @@ Manual Data Entry
    ↓
 Excel
 
-into:
+**into:**
 
 Factura
    ↓
