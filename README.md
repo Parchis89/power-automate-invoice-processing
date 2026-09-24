@@ -49,19 +49,18 @@ Manual Data Entry
    ↓
 Excel
 
-**into:**
+## Into
 
-Factura
+Invoice
    ↓
 OneDrive
    ↓
 Power Automate
    ↓
-IA
+AI Builder
    ↓
-JSON estructurado
+Structured JSON
    ↓
 Excel
-
 
 
