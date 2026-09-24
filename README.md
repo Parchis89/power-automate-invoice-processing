@@ -4,23 +4,17 @@
 
 ## Overview
 
-This project demonstrates the design of an intelligent document processing
-pipeline that automates the extraction and registration of invoice data.
+This project demonstrates the design of an intelligent document processing pipeline that automates the extraction and registration of invoice data.
 
-The solution combines Microsoft Power Automate and AI Builder to process
-invoice documents stored in OneDrive, extract relevant information using
-AI, transform the result into structured JSON and register the information
-in an Excel table.
+The solution combines Microsoft Power Automate and AI Builder to process invoice documents stored in OneDrive, extract relevant information using AI, transform the result into structured JSON and register the information in an Excel table.
 
-The objective is to reduce repetitive manual data entry and transform
-unstructured documents into structured business information.
+The objective is to reduce repetitive manual data entry and transform unstructured documents into structured business information.
 
 ---
 
 ## Business Problem
 
-Organizations may receive invoices from multiple suppliers in PDF or image
-format.
+Organizations may receive invoices from multiple suppliers in PDF or image format.
 
 In a manual process, an employee must:
 
@@ -48,27 +42,3 @@ Manual Reading
 Manual Data Entry
    ↓
 Excel
-```
-
-into:
-
-```text
-Invoice
-   ↓
-OneDrive
-   ↓
-Power Automate
-   ↓
-AI Builder
-   ↓
-Structured JSON
-   ↓
-Excel
-```
-
-The automated workflow separates the process into three main stages:
-
-1. **Document acquisition** — invoices are stored in OneDrive.
-2. **Intelligent extraction** — AI Builder analyzes the invoice and extracts relevant information.
-3. **Data registration** — the structured output is registered in Excel.
-
