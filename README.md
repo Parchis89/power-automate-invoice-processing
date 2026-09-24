@@ -48,9 +48,11 @@ Manual Reading
 Manual Data Entry
    ↓
 Excel
+```
 
-## Into
+into:
 
+```text
 Invoice
    ↓
 OneDrive
@@ -62,5 +64,11 @@ AI Builder
 Structured JSON
    ↓
 Excel
+```
 
+The automated workflow separates the process into three main stages:
+
+1. **Document acquisition** — invoices are stored in OneDrive.
+2. **Intelligent extraction** — AI Builder analyzes the invoice and extracts relevant information.
+3. **Data registration** — the structured output is registered in Excel.
 
